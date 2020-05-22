@@ -8,7 +8,7 @@ Tool to quickly fill in lunch reimbursement forms.
 (`MM-DD-YYYY` is the day of the lunch you want to get reinbursed)
 
 ### Dependencies 
-- [[https://github.com/pmaupin/pdfrw][pdfrw]] (MIT license)
+- [https://github.com/pmaupin/pdfrw][pdfrw] (MIT license)
   This library is used to interact with the Pdf. 
   It is included togather with the main code (`pdfrw/`), so **no downloads required**.
   Licence and author information is included at `pdfrw/LICENSE.txt`
