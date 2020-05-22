@@ -1,0 +1,8 @@
+{
+    "name" : "My Name",
+    "email" : "my-email@andrew.cmu.edu",
+    "phone" : "012-345-6789",
+    "address" : "my address",
+    "relation2dept" : "PhD Student",
+    "advisors" : "my advisors"
+}
